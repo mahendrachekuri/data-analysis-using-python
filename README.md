@@ -38,19 +38,19 @@ The goal is to clean, analyze, and visualize data to extract meaningful insights
 ## 📈 Sample Visualizations
 
 1️⃣ Pie Chart – Category Distribution
-![Pie Chart](images/piechart.png)
+![Pie Chart](piechart.png)
 
 2️⃣ Correlation Heatmap – Feature Relationships
-![Correlation Heatmap](images/heatmap.png)
+![Correlation Heatmap](heatmap.png)
 
 3️⃣ Histogram – Data Distribution
-![Histogram](images/histogram.png)
+![Histogram](histogram.png)
 
 4️⃣ Box Plot – Outlier Detection
-![Box Plot](images/box_plot.png)
+![Box Plot](box_plot.png)
 
 5️⃣ Scatter Plot – Relationship Analysis
-![Scatter Plot](images/scatter_plot.png)
+![Scatter Plot](scatter_plot.png)
 
 ## 🚀 How to Run the Project
 ```bash
