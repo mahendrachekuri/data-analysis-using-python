@@ -38,7 +38,7 @@ The goal is to clean, analyze, and visualize data to extract meaningful insights
 ## 📈 Sample Visualizations
 
 1️⃣ Pie Chart – Category Distribution
-![Pie Chart](images/pie_chart.png)
+![Pie Chart](images/piechart.png)
 
 2️⃣ Correlation Heatmap – Feature Relationships
 ![Correlation Heatmap](images/heatmap.png)
