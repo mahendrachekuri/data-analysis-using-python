@@ -12,7 +12,7 @@ The goal is to clean, analyze, and visualize data to extract meaningful insights
 - Seaborn
 - Jupyter Notebook
 
-## 📂 Dataset
+## 📂 Dataset - smartphone_battery_life_analysis
 - Source: https://drive.google.com/file/d/14juMEfeTVYwJbPl6OysUuPIoYOH4D_oQ/view?usp=sharing
 - Purpose: The dataset is designed to analyze relationships between device usage patterns and battery performance,enabling insights through exploratory data analysis and visualization.
 
