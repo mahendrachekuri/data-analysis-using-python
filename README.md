@@ -50,7 +50,7 @@ The goal is to clean, analyze, and visualize data to extract meaningful insights
 ![Box Plot](images/box_plot.png)
 
 5️⃣ Scatter Plot – Relationship Analysis
-![Scatter Plot](images/scatter_plot.png)
+![Scatter Plot](images/scatterplot.png)
 
 ## 🚀 How to Run the Project
 ```bash
